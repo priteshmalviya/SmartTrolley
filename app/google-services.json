@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "547786613484",
+    "project_id": "smarttrolly-88a07",
+    "storage_bucket": "smarttrolly-88a07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547786613484:android:a02bece6f1d8120365bbc9",
+        "android_client_info": {
+          "package_name": "com.example.smarttrolly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547786613484-n7e80cslu9fcauajj8jov8pt0tuu3c69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smarttrolly",
+            "certificate_hash": "f08619f183b7f179c6c7ed76e5f6c39bbf19d8e6"
+          }
+        },
+        {
+          "client_id": "547786613484-gf17m1s7qs76muter7jlj6oet267demc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZI2FZQBhT9eU6eOSIbbfYD9_d_Pyuf-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547786613484-gf17m1s7qs76muter7jlj6oet267demc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
